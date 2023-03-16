@@ -1,15 +1,5 @@
-.top {
+.top-page {
   background-color: #ffffff;
 }
 .logo {
-  position: absolute;
-  width: 145px;
-  height: 31px;
-  left: 215px;
-  top: 24px;
-  font-family: "Raleway";
-  font-weight: 700;
-  font-size: 26px;
-  line-height: 1, 19;
-  letter-spacing: 0.03em;
 }

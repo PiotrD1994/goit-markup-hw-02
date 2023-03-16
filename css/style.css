@@ -7,3 +7,10 @@
 .half-logo {
   color: #2196f3;
 }
+
+.half-logo .logo {
+  font-family: "Raleway";
+  font-size: 26px;
+  font-weight: 700px;
+  line-height: 1, 19;
+}

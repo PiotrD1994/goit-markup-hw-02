@@ -1,6 +1,8 @@
 .top {
   background-color: #ffffff;
   position: absolute;
+  width: 1600px;
+  height: 80px;
 }
 .logo {
   font-family: "Raleway";

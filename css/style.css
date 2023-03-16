@@ -3,12 +3,14 @@
 }
 .logo {
   color: #000000;
+  font-family: "Raleway";
+  font-size: 26px;
+  font-weight: 700px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
 }
 .half-logo {
   color: #2196f3;
-}
-
-.half-logo .logo {
   font-family: "Raleway";
   font-size: 26px;
   font-weight: 700px;
@@ -17,11 +19,13 @@
 }
 .first-element-menu {
   color: #2196f3;
+  font-size: 14px;
+  font-weight: 500px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
 }
 .other-elements-menu {
   color: #212121;
-}
-.first-element-menu .other-elements-menu {
   font-size: 14px;
   font-weight: 500px;
   line-height: 1.14;

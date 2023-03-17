@@ -17,32 +17,26 @@
   line-height: 1.19;
   letter-spacing: 0.03em;
 }
-.first-element-menu {
+.element-menu {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+}
+.element-menu:hover,
+.element-menu:focus {
   color: #2196f3;
-  font-size: 14px;
-  font-weight: 500;
-  line-height: 1.14;
-  letter-spacing: 0.02em;
 }
-.other-elements-menu {
-  font-size: 14px;
-  font-weight: 500;
-  line-height: 1.14;
-  letter-spacing: 0.02em;
-}
-.mail {
-  color: #2196f3;
-  font-size: 14px;
-  font-weight: 500;
-  line-height: 1.14;
-  letter-spacing: 0.02em;
-}
-.tel {
+.contact-top {
   color: #757575;
   font-size: 14px;
   font-weight: 500;
   line-height: 1.14;
   letter-spacing: 0.02em;
+}
+.contact-top:hover,
+.contact-top:focus {
+  color: #2196f3;
 }
 .title-field {
   background-color: #2f303a;
@@ -66,6 +60,7 @@
   align-items: center;
   text-align: center;
   letter-spacing: 0.06em;
+  cursor: pointer;
 }
 .secondary-header {
   font-weight: 700;
@@ -133,7 +128,23 @@
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
-.first-button {
+.bottom-contact:hover,
+.bottom-contact:focus {
+  color: #2196f3;
+}
+
+.portfolio-button {
+  background: #f5f4fa;
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  text-align: center;
+  letter-spacing: 0.03em;
+  cursor: pointer;
+}
+.portfolio-button:hover,
+.portfolio-button:focus {
   background-color: #2196f3;
   box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
     0px 2px 2px rgba(0, 0, 0, 0.12);
@@ -144,15 +155,7 @@
   line-height: 1.62;
   align-items: center;
   letter-spacing: 0.03em;
-}
-.other-button {
-  background: #f5f4fa;
-  border-radius: 4px;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.62;
-  text-align: center;
-  letter-spacing: 0.03em;
+  cursor: pointer;
 }
 .portfolio-pictrue {
   background-color: #ffffff;

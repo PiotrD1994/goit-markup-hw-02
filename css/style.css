@@ -145,3 +145,12 @@
   align-items: center;
   letter-spacing: 0.03em;
 }
+.other-button {
+  background: #f5f4fa;
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  text-align: center;
+  letter-spacing: 0.03em;
+}

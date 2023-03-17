@@ -112,3 +112,17 @@
 .bottom-page {
   background-color: #2f303a;
 }
+.logo-bottom {
+  color: #ffffff;
+  font-family: "Raleway";
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+}
+.address-of-company {
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}

@@ -1,3 +1,7 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #212121;
+}
 .top-page {
   background-color: var(--white);
 }
@@ -9,6 +13,7 @@
   --text-color-one: #757575;
   --first-color-background: #2f303a;
   --second-color-background: #f5f4fa;
+  --color-menu: #212121;
 }
 .logo-top {
   color: var(--logo-top);
@@ -29,6 +34,7 @@
   text-decoration: none;
 }
 .element-menu {
+  color: var(--color-menu);
   font-size: 14px;
   font-weight: 500;
   line-height: 1.14;
